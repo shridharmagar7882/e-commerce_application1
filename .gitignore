@@ -1,0 +1,7 @@
+﻿node_modules/
+dist/
+build/
+out/
+my-electron-app/
+.env
+INVOICE/

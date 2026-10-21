@@ -1,0 +1,37 @@
+.contactSection {
+      background-color: #fff;
+}
+
+.contactSection .card {
+      border-radius: 10px;
+      transition: transform 0.3s ease;
+}
+
+.contactSection .card:hover {
+      transform: translateY(-5px);
+}
+
+.contactSection .bg-light {
+      background-color: #f8f9fa !important;
+}
+
+.contactSection input,
+.contactSection textarea {
+      border-radius: 5px;
+}
+
+.contactSection input:focus,
+.contactSection textarea:focus {
+      background-color: #f1f1f1 !important;
+      box-shadow: none;
+      outline: none;
+}
+
+.contactSection h1,
+.contactSection h2 {
+      color: #233a95;
+}
+
+.text-primary {
+      color: #233a95 !important;
+}
